@@ -113,5 +113,4 @@ O código acima implementa um sistema básico de MapReduce para contar palavras 
 4. **Soma as ocorrências** de cada palavra na fase de redução.
 5. **Exibe o resultado ordenado** pela frequência das palavras.
 
-Agora, podemos adaptar essa abordagem para outros problemas, como análise de logs ou estatísticas em grandes datasets. Se quiser, podemos testar com um conjunto maior de dados! 🚀
-```
+
